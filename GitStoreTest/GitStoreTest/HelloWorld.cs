@@ -10,6 +10,7 @@ namespace GitStoreTest
     {
         public HelloWorld()
         {
+            Console.WriteLine("Hello world !");
 
         }
     }
