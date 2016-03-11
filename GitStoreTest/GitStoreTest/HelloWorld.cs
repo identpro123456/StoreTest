@@ -11,6 +11,10 @@ namespace GitStoreTest
         public HelloWorld()
         {
             Console.WriteLine("Hello world !");
+            Console.WriteLine("Hello world !");
+            Console.WriteLine("Hello world !");
+            Console.WriteLine("Hello world !");
+            Console.WriteLine("Hello world !");
 
         }
     }
